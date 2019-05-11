@@ -1,0 +1,7 @@
+Name WorkingHours Loan SalaryRate 
+Ahmed 3 10 2
+Nada 11 50 2
+Ali 15 45 2
+Youssef 5 40 2
+Hassan 12 30 2
+Eslam 10 200 2 
